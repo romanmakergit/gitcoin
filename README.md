@@ -13,9 +13,3 @@ The only token written entirely in TypeScript and pain.
 
 ```bash
 npm install gitcoin --burnout
-
-## 🚀 Usage
-
-import { deploy } from "gitcoin"
-
-deploy("to the mempool")
