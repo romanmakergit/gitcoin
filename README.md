@@ -49,16 +49,22 @@ if (mentalHealth < 0) {
 📝 Known Issues
 
  • Compiles with tears
+ 
  • Breaks in prod and in life
+ 
  • Causes minor existential dread
+ 
  • Sometimes moon. Usually not.
 
 ---
 
 💀 Changelog
 v0.0.1 — Initial breakdown
+
 v0.0.2 — Tokenized regret
+
 v0.0.3 — Hotfix: added denial
+
 v1.0.0 — Burned everything. Deployed anyway.
 
 ---
