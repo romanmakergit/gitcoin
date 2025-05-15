@@ -46,7 +46,7 @@ if (mentalHealth < 0) {
 
 ```
 
-📝 Known Issues
+## 📝 Known Issues
 
  • Compiles with tears
  
@@ -58,7 +58,8 @@ if (mentalHealth < 0) {
 
 ---
 
-💀 Changelog
+## 💀 Changelog
+
 v0.0.1 — Initial breakdown
 
 v0.0.2 — Tokenized regret
@@ -69,6 +70,11 @@ v1.0.0 — Burned everything. Deployed anyway.
 
 ---
 
-🛑 Contributing
+## 🛑 Contributing
 Please don’t.
 This repo is already emotionally unstable.
+
+---
+
+## 🪦 License
+MIT, but like… emotionally unavailable.
