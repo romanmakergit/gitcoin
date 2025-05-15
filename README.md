@@ -24,4 +24,34 @@ and writing tokens for degenerates is emotionally safer.
 ## 📦 Install
 
 ```bash
-npm install git-coin --burnout
+npm install gitcoin --burnout
+
+```
+
+## 🚀 Usage
+
+```js
+import { deploy } from "gitcoin";
+
+deploy("to the mempool");
+
+```
+
+## Or, if you're already broken:
+
+```js
+if (mentalHealth < 0) {
+  deploy("$gitcoin");
+}
+
+```
+
+##📝 Known Issues
+
+ • Compiles with tears
+
+ • Breaks in prod and in life
+
+ • Causes minor existential dread
+
+ • Sometimes moon. Usually not.
