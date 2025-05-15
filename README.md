@@ -46,7 +46,7 @@ if (mentalHealth < 0) {
 
 ```
 
-##📝 Known Issues
+📝 Known Issues
 
  • Compiles with tears
 
